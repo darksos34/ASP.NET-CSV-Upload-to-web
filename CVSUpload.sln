@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CVSUpload", "CVSUpload.csproj", "{D603BAC4-ED8D-476C-BF42-FB9520546ADA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVUpload", "CSVUpload.csproj", "{D603BAC4-ED8D-476C-BF42-FB9520546ADA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
