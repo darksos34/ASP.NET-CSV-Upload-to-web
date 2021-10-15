@@ -55,7 +55,6 @@ namespace CVSUpload.Controllers
                                 Designation = rows[2].ToString(),
                                 Salary = int.Parse(rows[3].ToString()),
                                 Email = EmailAddress.Parse(rows[4].ToString())
-                                
                             });
                         }
                     }
